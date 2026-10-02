@@ -1,4 +1,4 @@
-My old personal website on neocities.
+My old personal website on neocities. (handcoded with no AI, as you can probably see lol)
 
 My first website I made after being introduced to (and in awe) the indie web, a selection of rescources that introduced me below, so you can check out the indie web too!
 
